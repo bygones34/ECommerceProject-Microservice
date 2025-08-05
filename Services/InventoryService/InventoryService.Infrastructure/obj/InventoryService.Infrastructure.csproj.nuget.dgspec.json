@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/InventoryService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/InventoryService.Application.csproj",
+        "projectName": "InventoryService.Application",
+        "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/InventoryService.Application.csproj",
+        "packagesPath": "/Users/alperdursun/.nuget/packages/",
+        "outputPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alperdursun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
+                "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.5.2-develop.2349, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.5.2-develop.2349, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj",
+        "projectName": "InventoryService.Domain",
+        "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj",
+        "packagesPath": "/Users/alperdursun/.nuget/packages/",
+        "outputPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alperdursun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj",
+        "projectName": "InventoryService.Infrastructure",
+        "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj",
+        "packagesPath": "/Users/alperdursun/.nuget/packages/",
+        "outputPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alperdursun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/InventoryService.Application.csproj": {
+                "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/InventoryService.Application.csproj"
+              },
+              "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
+                "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

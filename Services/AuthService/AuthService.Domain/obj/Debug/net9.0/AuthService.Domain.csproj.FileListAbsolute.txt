@@ -1,0 +1,71 @@
+/src/src/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.deps.json
+/src/src/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.dll
+/src/src/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.pdb
+/src/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/src/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfoInputs.cache
+/src/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfo.cs
+/src/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.csproj.CoreCompileInputs.cache
+/src/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.dll
+/src/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/refint/AuthService.Domain.dll
+/src/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.pdb
+/src/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/ref/AuthService.Domain.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.deps.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.pdb
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfoInputs.cache
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfo.cs
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.csproj.CoreCompileInputs.cache
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/refint/AuthService.Domain.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.pdb
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/ref/AuthService.Domain.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.deps.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/obj/Debug/net9.0/refint/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.Domain/obj/Debug/net9.0/ref/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.deps.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/refint/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/ref/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.deps.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/refint/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/ref/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.deps.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/bin/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.sourcelink.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/refint/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/ref/AuthService.Domain.dll

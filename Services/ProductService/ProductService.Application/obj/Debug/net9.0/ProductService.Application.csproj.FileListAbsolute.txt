@@ -1,0 +1,80 @@
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.deps.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.pdb
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.pdb
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.AssemblyReference.cache
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfoInputs.cache
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfo.cs
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.CoreCompileInputs.cache
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductS.46A6959E.Up2Date
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/refint/ProductService.Application.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.pdb
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ref/ProductService.Application.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.deps.json
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.pdb
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.AssemblyReference.cache
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/ProductS.46A6959E.Up2Date
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/refint/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.pdb
+/Users/alperdursun/RiderProjects/ECommerce_ProductService/ProductService.Application/obj/Debug/net9.0/ref/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.deps.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.pdb
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.AssemblyReference.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductS.46A6959E.Up2Date
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/refint/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.pdb
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ref/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.deps.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.pdb
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.AssemblyReference.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductS.46A6959E.Up2Date
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/refint/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.pdb
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ref/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.deps.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Application.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.AssemblyReference.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.sourcelink.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductS.46A6959E.Up2Date
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/refint/ProductService.Application.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ProductService.Application.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/obj/Debug/net9.0/ref/ProductService.Application.dll

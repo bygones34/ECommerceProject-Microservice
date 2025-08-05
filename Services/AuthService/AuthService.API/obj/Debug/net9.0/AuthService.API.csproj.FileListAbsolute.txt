@@ -1,0 +1,1035 @@
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/appsettings.Development.json
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.staticwebassets.endpoints.json
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/appsettings.json
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.deps.json
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.runtimeconfig.json
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.pdb
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Azure.Core.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Azure.Identity.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Humanizer.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Mono.TextTemplating.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.ClientModel.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.CodeDom.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Convention.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Hosting.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Runtime.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Drawing.Common.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Memory.Data.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Runtime.Caching.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Permissions.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Windows.Extensions.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.dll
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.pdb
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.pdb
+/src/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.pdb
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.AssemblyReference.cache
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/rpswa.dswa.cache.json
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.GeneratedMSBuildEditorConfig.editorconfig
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfoInputs.cache
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfo.cs
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.CoreCompileInputs.cache
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cs
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cache
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/scopedcss/bundle/AuthService.API.styles.css
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json.cache
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.development.json
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthServ.AA2E8EA6.Up2Date
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.dll
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/refint/AuthService.API.dll
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.pdb
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.genruntimeconfig.cache
+/src/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/ref/AuthService.API.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/appsettings.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.staticwebassets.endpoints.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.exe
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.deps.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.runtimeconfig.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.pdb
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Azure.Core.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Azure.Identity.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/BCrypt.Net-Next.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Humanizer.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/Mono.TextTemplating.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.ClientModel.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.CodeDom.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Convention.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Hosting.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Runtime.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.TypedParts.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Drawing.Common.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Formats.Asn1.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Memory.Data.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Runtime.Caching.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Permissions.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Text.Json.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Windows.Extensions.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.pdb
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.pdb
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.pdb
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.AssemblyReference.cache
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfoInputs.cache
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfo.cs
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.CoreCompileInputs.cache
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/scopedcss/bundle/AuthService.API.styles.css
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets/msbuild.AuthService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets/msbuild.AuthService.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets/msbuild.build.AuthService.API.props
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.AuthService.API.props
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.AuthService.API.props
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.pack.json
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthServ.AA2E8EA6.Up2Date
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/refint/AuthService.API.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.pdb
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.genruntimeconfig.cache
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/ref/AuthService.API.dll
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.upToDateCheck.txt
+C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerceMicroservice/src/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/appsettings.Development.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/appsettings.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.staticwebassets.endpoints.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.deps.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.runtimeconfig.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.pdb
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Azure.Core.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Azure.Identity.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Humanizer.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.ClientModel.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.CodeDom.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.pdb
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.pdb
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.AssemblyReference.cache
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/scopedcss/bundle/AuthService.API.styles.css
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.development.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthServ.AA2E8EA6.Up2Date
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/refint/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.pdb
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.genruntimeconfig.cache
+/Users/alperdursun/RiderProjects/ECommerce_AuthService/AuthService.API/obj/Debug/net9.0/ref/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/appsettings.Development.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/appsettings.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.staticwebassets.endpoints.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.deps.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.runtimeconfig.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.pdb
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Azure.Core.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Azure.Identity.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Humanizer.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.ClientModel.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.CodeDom.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.pdb
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.pdb
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.AssemblyReference.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/scopedcss/bundle/AuthService.API.styles.css
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.development.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthServ.AA2E8EA6.Up2Date
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/refint/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.pdb
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.genruntimeconfig.cache
+/Users/alperdursun/RiderProjects/ECommerceMicroservices/Services/AuthService/AuthService.API/obj/Debug/net9.0/ref/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/appsettings.Development.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/appsettings.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.staticwebassets.endpoints.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.deps.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.runtimeconfig.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.pdb
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Azure.Core.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Azure.Identity.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Humanizer.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.ClientModel.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.CodeDom.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.pdb
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.pdb
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.AssemblyReference.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.sourcelink.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/scopedcss/bundle/AuthService.API.styles.css
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.development.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthServ.AA2E8EA6.Up2Date
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/refint/AuthService.API.dll
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.pdb
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.genruntimeconfig.cache
+/Users/alperdursun/RiderProjects/ECommerce_Microservice/Services/AuthService/AuthService.API/obj/Debug/net9.0/ref/AuthService.API.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/appsettings.Development.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/appsettings.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.staticwebassets.endpoints.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.deps.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.runtimeconfig.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.API.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Azure.Core.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Azure.Identity.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Humanizer.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.ClientModel.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.CodeDom.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Application.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Infrastructure.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/bin/Debug/net9.0/AuthService.Domain.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.AssemblyReference.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.sourcelink.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/scopedcss/bundle/AuthService.API.styles.css
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.development.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthServ.AA2E8EA6.Up2Date
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/refint/AuthService.API.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/AuthService.API.genruntimeconfig.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.API/obj/Debug/net9.0/ref/AuthService.API.dll

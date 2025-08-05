@@ -1,0 +1,157 @@
+services:
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: authDb
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Your_password123
+    ports:
+      - "1433:1433"
+    volumes:
+      - mssql-auth-data:/var/opt/mssql
+
+  authservice-api:
+    build:
+      context: ./Services/AuthService
+      dockerfile: AuthService.API/Dockerfile
+    container_name: authservice
+    ports:
+      - "5190:80"
+    depends_on:
+      - mssql
+    environment:
+      - ConnectionStrings__AuthDb=Server=mssql,1433;Database=AuthDb;User Id=sa;Password=Your_password123;TrustServerCertificate=True
+      - JwtSettings__SecretKey=super_secret_key_12345agvndjdnkjfn_218u3981328321_jgjirrjgmvnjf
+      - JwtSettings__Issuer=ECommerce.Identity
+      - JwtSettings__Audience=ECommerce.User
+      - ASPNETCORE_URLS=http://+:80
+
+  mongodb:
+    image: mongo:6.0
+    container_name: productDb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+  productservice-api:
+    build:
+      context: ./Services/ProductService
+      dockerfile: ProductService.API/Dockerfile
+    container_name: productservice
+    ports:
+      - "5181:80"
+    depends_on:
+      - mongodb
+    environment:
+      - ConnectionStrings__MongoDb=mongodb://mongodb:27017/ProductDb
+      - JwtSettings__SecretKey=super_secret_key_12345agvndjdnkjfn_218u3981328321_jgjirrjgmvnjf
+      - JwtSettings__Issuer=ECommerce.Identity
+      - JwtSettings__Audience=ECommerce.User
+      - ASPNETCORE_URLS=http://+:80
+    volumes:
+      - ./Services/ProductService/ProductService.API/Logs:/app/Logs
+
+  redis:
+    image: redis:7.0
+    container_name: basketRedis
+    ports:
+      - "6379:6379"
+
+  basketservice-api:
+    build:
+      context: ./Services/BasketService
+      dockerfile: BasketService.API/Dockerfile
+    container_name: basketservice
+    ports:
+      - "5200:80"
+    environment:
+      - ConnectionStrings__Redis=redis:6379
+      - ASPNETCORE_URLS=http://+:80
+    depends_on:
+      - redis
+
+  ecommerce.gateway:
+    build:
+      context: ./Gateway/ApiGateway/ECommerce.Gateway
+      dockerfile: Dockerfile
+    container_name: gateway
+    ports:
+      - "9000:7000"
+    depends_on:
+      - authservice-api
+      - productservice-api
+      - basketservice-api
+      - orderservice-api
+    environment:
+      - ASPNETCORE_URLS=http://+:7000
+
+  orderdb:
+    image: postgres:15
+    container_name: orderdb
+    restart: always
+    environment:
+      POSTGRES_USER: postgresUser
+      POSTGRES_PASSWORD: YourPassword12345
+      POSTGRES_DB: OrderDb
+    ports:
+      - "5434:5432"
+    volumes:
+      - order_pgdata:/var/lib/postgresql/data
+
+  orderservice-api:
+    build:
+      context: ./Services/OrderService
+      dockerfile: OrderService.API/Dockerfile
+    container_name: orderservice
+    ports:
+      - "7004:80"
+    depends_on:
+      - orderdb
+    environment:
+      - ConnectionStrings__OrderDb=Host=orderdb;Port=5432;Database=OrderDb;Username=postgresUser;Password=YourPassword12345
+      - ASPNETCORE_URLS=http://+:80
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"     # AMQP
+      - "15672:15672"   # Yönetim UI
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+
+  inventorydb:
+    image: postgres:15
+    container_name: inventorydb
+    environment:
+      POSTGRES_USER: postgresUser
+      POSTGRES_PASSWORD: YourPassword12345
+      POSTGRES_DB: InventoryDb
+    ports:
+      - "5435:5432"
+    volumes:
+      - inventory_pgdata:/var/lib/postgresql/data
+
+  inventoryservice-api:
+    build:
+      context: ./Services/InventoryService
+      dockerfile: InventoryService.API/Dockerfile
+    container_name: inventoryservice
+    ports:
+      - "7010:80"
+    depends_on:
+      - inventorydb
+      - rabbitmq
+    environment:
+      - ConnectionStrings__InventoryDb=Host=inventorydb;Port=5432;Database=InventoryDb;Username=postgresUser;Password=YourPassword12345
+      - ASPNETCORE_URLS=http://+:80
+
+
+
+volumes:
+  mssql-auth-data:
+  mongo-data:
+  order_pgdata:
+  inventory_pgdata:

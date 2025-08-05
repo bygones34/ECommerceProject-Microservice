@@ -1,0 +1,11 @@
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/bin/Debug/net9.0/InventoryService.Domain.deps.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/bin/Debug/net9.0/InventoryService.Domain.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/bin/Debug/net9.0/InventoryService.Domain.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/refint/InventoryService.Domain.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/ref/InventoryService.Domain.dll

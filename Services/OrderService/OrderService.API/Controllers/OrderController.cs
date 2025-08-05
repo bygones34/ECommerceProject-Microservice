@@ -1,0 +1,33 @@
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
+using OrderService.Application.Features.Orders.Commands.CreateOrder;
+using OrderService.Application.Features.Orders.Queries.GetOrders;
+
+namespace OrderService.API.Controllers;
+
+[ApiController]
+[Route("api/[controller]")]
+public class OrderController : ControllerBase
+{
+    private readonly IMediator _mediator;
+
+    public OrderController(IMediator mediator)
+    {
+        _mediator = mediator;
+    }
+
+    [HttpGet("{buyerId}")]
+    public async Task<IActionResult> GetOrdersByBuyerIdAsync(string buyerId)
+    {
+        var query = new GetOrdersQuery(buyerId);
+        var orders =  await _mediator.Send(query);
+        return Ok(orders);
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> CreateOrderAsync(CreateOrderCommand command)
+    {
+        var orderId =  await _mediator.Send(command);
+        return Ok(orderId);
+    }
+}

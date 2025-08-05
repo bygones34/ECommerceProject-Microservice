@@ -1,0 +1,15 @@
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/bin/Debug/net9.0/InventoryService.Application.deps.json
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/bin/Debug/net9.0/InventoryService.Application.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/bin/Debug/net9.0/InventoryService.Application.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/bin/Debug/net9.0/InventoryService.Domain.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/bin/Debug/net9.0/InventoryService.Domain.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.csproj.AssemblyReference.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.AssemblyInfoInputs.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.AssemblyInfo.cs
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.csproj.CoreCompileInputs.cache
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/Debug/net9.0/Inventor.DFE2E32E.Up2Date
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/Debug/net9.0/refint/InventoryService.Application.dll
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.pdb
+/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/Debug/net9.0/ref/InventoryService.Application.dll
