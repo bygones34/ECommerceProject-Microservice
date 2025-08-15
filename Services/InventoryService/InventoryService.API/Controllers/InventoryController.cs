@@ -22,8 +22,8 @@ public class InventoryController : ControllerBase
 
         return Ok(new
         {
-            ProductId = item.ProductId,
-            AvailableQuantity = item.AvailableQuantity
+            item.ProductId,
+            item.AvailableQuantity
         });
     }
 
@@ -33,7 +33,7 @@ public class InventoryController : ControllerBase
         var item = await _inventoryRepository.GetByProductIdAsync(productId);
         if (item == null)
         {
-            item = new InventoryService.Domain.Entities.InventoryItem(productId, amount);
+            item = new Domain.Entities.InventoryItem(productId, amount);
             await _inventoryRepository.AddAsync(item);
         }
         else

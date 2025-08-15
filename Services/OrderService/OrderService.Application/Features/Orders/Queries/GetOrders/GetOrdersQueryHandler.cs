@@ -20,7 +20,7 @@ public class GetOrdersQueryHandler : IRequestHandler<GetOrdersQuery, List<OrderD
         return orders.Select(order => new OrderDto
         {
             OrderId = order.Id,
-            BuyerId = order.UserName,
+            UserName = order.UserName,
             AddressLine = order.AddressLine,
             City = order.City,
             District = order.District,

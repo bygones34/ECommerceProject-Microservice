@@ -324,6 +324,16 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "ECommerce.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ECommerce.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerce.Contracts.dll": {}
+        }
+      },
       "InventoryService.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -898,6 +908,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "ECommerce.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../../../Contracts/ECommerce.Contracts/ECommerce.Contracts.csproj",
+      "msbuildProject": "../../../Contracts/ECommerce.Contracts/ECommerce.Contracts.csproj"
+    },
     "InventoryService.Domain/1.0.0": {
       "type": "project",
       "path": "../InventoryService.Domain/InventoryService.Domain.csproj",
@@ -907,38 +922,50 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
+      "ECommerce.Contracts >= 1.0.0",
       "InventoryService.Domain >= 1.0.0",
       "MassTransit >= 8.5.2-develop.2349",
       "MassTransit.RabbitMQ >= 8.5.2-develop.2349"
     ]
   },
   "packageFolders": {
-    "/Users/alperdursun/.nuget/packages/": {}
+    "C:\\Users\\alperyusuf.dursun\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/InventoryService.Application.csproj",
+      "projectUniqueName": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\InventoryService\\InventoryService.Application\\InventoryService.Application.csproj",
       "projectName": "InventoryService.Application",
-      "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/InventoryService.Application.csproj",
-      "packagesPath": "/Users/alperdursun/.nuget/packages/",
-      "outputPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Application/obj/",
+      "projectPath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\InventoryService\\InventoryService.Application\\InventoryService.Application.csproj",
+      "packagesPath": "C:\\Users\\alperyusuf.dursun\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\InventoryService\\InventoryService.Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/alperdursun/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\alperyusuf.dursun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\alperyusuf.dursun\\OneDrive - Aydinli\\Masaüstü\\IdentityNuget-main\\templates": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
-              "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj"
+            "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Contracts\\ECommerce.Contracts\\ECommerce.Contracts.csproj": {
+              "projectPath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Contracts\\ECommerce.Contracts\\ECommerce.Contracts.csproj"
+            },
+            "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\InventoryService\\InventoryService.Domain\\InventoryService.Domain.csproj": {
+              "projectPath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\InventoryService\\InventoryService.Domain\\InventoryService.Domain.csproj"
             }
           }
         }
@@ -953,7 +980,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -988,7 +1015,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

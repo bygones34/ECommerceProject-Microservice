@@ -1,6 +1,6 @@
 using MassTransit;
 using Microsoft.Extensions.Logging;
-using OrderService.Application.Events;
+using ECommerce.Contracts.Orders;
 using System.Threading.Tasks;
 
 namespace OrderService.Application.Consumers;

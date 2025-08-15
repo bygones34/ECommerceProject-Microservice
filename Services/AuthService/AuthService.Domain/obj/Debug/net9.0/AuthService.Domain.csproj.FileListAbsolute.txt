@@ -69,3 +69,15 @@ C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerc
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/refint/AuthService.Domain.dll
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/AuthService.Domain.pdb
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/obj/Debug/net9.0/ref/AuthService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\bin\Debug\net9.0\AuthService.Domain.deps.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\bin\Debug\net9.0\AuthService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\bin\Debug\net9.0\AuthService.Domain.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\obj\Debug\net9.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\obj\Debug\net9.0\AuthService.Domain.AssemblyInfoInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\obj\Debug\net9.0\AuthService.Domain.AssemblyInfo.cs
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\obj\Debug\net9.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\obj\Debug\net9.0\AuthService.Domain.sourcelink.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\obj\Debug\net9.0\AuthService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\obj\Debug\net9.0\refint\AuthService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\obj\Debug\net9.0\AuthService.Domain.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\AuthService\AuthService.Domain\obj\Debug\net9.0\ref\AuthService.Domain.dll

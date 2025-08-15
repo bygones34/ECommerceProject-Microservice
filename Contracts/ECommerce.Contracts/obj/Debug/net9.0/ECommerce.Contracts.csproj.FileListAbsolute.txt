@@ -1,0 +1,12 @@
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\bin\Debug\net9.0\ECommerce.Contracts.deps.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\bin\Debug\net9.0\ECommerce.Contracts.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\bin\Debug\net9.0\ECommerce.Contracts.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\obj\Debug\net9.0\ECommerce.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\obj\Debug\net9.0\ECommerce.Contracts.AssemblyInfoInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\obj\Debug\net9.0\ECommerce.Contracts.AssemblyInfo.cs
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\obj\Debug\net9.0\ECommerce.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\obj\Debug\net9.0\ECommerce.Contracts.sourcelink.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\obj\Debug\net9.0\ECommerce.Contracts.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\obj\Debug\net9.0\refint\ECommerce.Contracts.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\obj\Debug\net9.0\ECommerce.Contracts.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Contracts\ECommerce.Contracts\obj\Debug\net9.0\ref\ECommerce.Contracts.dll

@@ -9,3 +9,15 @@
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/refint/InventoryService.Domain.dll
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.pdb
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/obj/Debug/net9.0/ref/InventoryService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\bin\Debug\net9.0\InventoryService.Domain.deps.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\bin\Debug\net9.0\InventoryService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\bin\Debug\net9.0\InventoryService.Domain.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\obj\Debug\net9.0\InventoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\obj\Debug\net9.0\InventoryService.Domain.AssemblyInfoInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\obj\Debug\net9.0\InventoryService.Domain.AssemblyInfo.cs
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\obj\Debug\net9.0\InventoryService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\obj\Debug\net9.0\InventoryService.Domain.sourcelink.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\obj\Debug\net9.0\InventoryService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\obj\Debug\net9.0\refint\InventoryService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\obj\Debug\net9.0\InventoryService.Domain.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\InventoryService\InventoryService.Domain\obj\Debug\net9.0\ref\InventoryService.Domain.dll

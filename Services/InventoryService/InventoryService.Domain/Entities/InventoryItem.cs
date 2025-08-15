@@ -5,7 +5,6 @@ public class InventoryItem
     public Guid Id { get; set; } = Guid.NewGuid();
     public string ProductId { get; set; } = null!;
     public int AvailableQuantity { get; private set; }
-    public byte[] RowVersion { get; set; } = null!;
 
     private InventoryItem() { }
 

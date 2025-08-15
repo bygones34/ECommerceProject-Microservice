@@ -16,8 +16,12 @@ public class InventoryDbContext : DbContext
             eb.HasKey(i => i.Id);
             eb.Property(i => i.ProductId).IsRequired();
             eb.Property(i => i.AvailableQuantity).IsRequired();
-            eb.Property(i => i.RowVersion).IsRowVersion();
             eb.HasIndex(i => i.ProductId).IsUnique();
+
+            eb.Property<uint>("xmin")
+             .HasColumnName("xmin")
+             .IsConcurrencyToken()
+             .ValueGeneratedOnAddOrUpdate();
         });
     }
 }

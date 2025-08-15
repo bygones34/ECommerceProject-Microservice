@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VU8erDOaB5c=",
+  "dgSpecHash": "ftg5YpU7oJ8=",
   "success": true,
-  "projectFilePath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/BasketService/BasketService.Domain/BasketService.Domain.csproj",
+  "projectFilePath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\BasketService\\BasketService.Domain\\BasketService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

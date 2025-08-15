@@ -1823,35 +1823,43 @@
     ]
   },
   "packageFolders": {
-    "/Users/alperdursun/.nuget/packages/": {}
+    "C:\\Users\\alperyusuf.dursun\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Tests/ProductService.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\ProductService\\ProductService.Tests\\ProductService.Tests.csproj",
       "projectName": "ProductService.Tests",
-      "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Tests/ProductService.Tests.csproj",
-      "packagesPath": "/Users/alperdursun/.nuget/packages/",
-      "outputPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Tests/obj/",
+      "projectPath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\ProductService\\ProductService.Tests\\ProductService.Tests.csproj",
+      "packagesPath": "C:\\Users\\alperyusuf.dursun\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alperyusuf.dursun\\source\\repos\\ECommerceProject-Microservice\\Services\\ProductService\\ProductService.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/alperdursun/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\alperyusuf.dursun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\alperyusuf.dursun\\OneDrive - Aydinli\\Masaüstü\\IdentityNuget-main\\templates": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/ProductService.Application.csproj": {
-              "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Application/ProductService.Application.csproj"
+            "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj": {
+              "projectPath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj"
             },
-            "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Domain/ProductService.Domain.csproj": {
-              "projectPath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Domain/ProductService.Domain.csproj"
+            "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
+              "projectPath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj"
             }
           }
         }
@@ -1866,7 +1874,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -1921,7 +1929,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

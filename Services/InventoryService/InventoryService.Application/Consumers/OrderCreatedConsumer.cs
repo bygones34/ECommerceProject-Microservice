@@ -1,6 +1,6 @@
 using MassTransit;
 using Microsoft.Extensions.Logging;
-using InventoryService.Application.Events;
+using ECommerce.Contracts.Orders;
 using InventoryService.Application.Interfaces;
 using InventoryService.Domain.Entities;
 
@@ -8,12 +8,12 @@ namespace InventoryService.Application.Consumers;
 
 public class OrderCreatedConsumer : IConsumer<OrderCreatedEvent>
 {
-    private readonly IInventoryRepository _inventoryRepository;
+    private readonly IInventoryRepository _inventoryRepo;
     private readonly ILogger<OrderCreatedConsumer> _logger;
 
     public OrderCreatedConsumer(IInventoryRepository inventoryRepository, ILogger<OrderCreatedConsumer> logger)
     {
-        _inventoryRepository = inventoryRepository;
+        _inventoryRepo = inventoryRepository;
         _logger = logger;
     }
 
@@ -25,12 +25,12 @@ public class OrderCreatedConsumer : IConsumer<OrderCreatedEvent>
 
         foreach (var item in evt.Items)
         {
-            var inventoryItem = await _inventoryRepository.GetByProductIdAsync(item.ProductId);
+            var inventoryItem = await _inventoryRepo.GetByProductIdAsync(item.ProductId);
             if (inventoryItem == null)
             {
                 _logger.LogWarning("No stock records, creating a new one! ProductId={ProductId}", item.ProductId);
                 inventoryItem = new InventoryItem(item.ProductId, 0);
-                await _inventoryRepository.AddAsync(inventoryItem);
+                await _inventoryRepo.AddAsync(inventoryItem);
             }
 
             var success = inventoryItem.TryDecrease(item.Quantity);
@@ -41,11 +41,11 @@ public class OrderCreatedConsumer : IConsumer<OrderCreatedEvent>
             }
             else
             {
-                await _inventoryRepository.UpdateAsync(inventoryItem);
+                await _inventoryRepo.UpdateAsync(inventoryItem);
                 _logger.LogInformation("Stock updated! ProductId={ProductId}, Remaining={Remaining}", item.ProductId, inventoryItem.AvailableQuantity);
             }
         }
 
-        await _inventoryRepository.SaveChangesAsync();
+        await _inventoryRepo.SaveChangesAsync();
     }
 }

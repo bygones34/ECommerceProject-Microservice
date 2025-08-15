@@ -1,10 +1,12 @@
 using MassTransit;
 using MediatR;
 using Microsoft.Extensions.Logging;
-using OrderService.Application.Events;
+using ECommerce.Contracts.Orders;
 using OrderService.Application.Interfaces;
 using OrderService.Application.Services;
 using OrderService.Domain.Entities;
+using OrderService.Domain.Outbox;
+using System.Text.Json;
 
 namespace OrderService.Application.Features.Orders.Commands.CreateOrder;
 
@@ -15,19 +17,22 @@ public class CreateOrderCommandHandler : IRequestHandler<CreateOrderCommand, Gui
     private readonly ProductServiceClient _productServiceClient;
     private readonly ILogger<CreateOrderCommandHandler> _logger;
     private readonly IPublishEndpoint _publishEndpoint;
+    private readonly IOutboxRepository _outboxRepository;
 
     public CreateOrderCommandHandler(
         IOrderRepository orderRepository,
         BasketServiceClient basketClient,
         ProductServiceClient productServiceClient,
         ILogger<CreateOrderCommandHandler> logger,
-        IPublishEndpoint publishEndpoint)
+        IPublishEndpoint publishEndpoint,
+        IOutboxRepository outboxRepository)
     {
         _orderRepository = orderRepository;
         _basketClient = basketClient;
         _productServiceClient = productServiceClient;
         _logger = logger;
         _publishEndpoint = publishEndpoint;
+        _outboxRepository = outboxRepository;
     }
 
     public async Task<Guid> Handle(CreateOrderCommand request, CancellationToken cancellationToken)
@@ -107,7 +112,12 @@ public class CreateOrderCommandHandler : IRequestHandler<CreateOrderCommand, Gui
             DateTime.UtcNow
         );
 
-        await _publishEndpoint.Publish(orderCreatedEvent);
+        //await _publishEndpoint.Publish(orderCreatedEvent);
+
+        var outboxMsg = OutboxMessage.FromEvent(orderCreatedEvent, new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase });
+        await _outboxRepository.AddAsync(outboxMsg, cancellationToken);
+
+        await _outboxRepository.SaveChangesAsync(cancellationToken);
 
         await _basketClient.DeleteBasketAsync(request.UserName);
 

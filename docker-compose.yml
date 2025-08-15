@@ -83,6 +83,7 @@ services:
       - productservice-api
       - basketservice-api
       - orderservice-api
+      - inventoryservice-api
     environment:
       - ASPNETCORE_URLS=http://+:7000
 
@@ -101,13 +102,14 @@ services:
 
   orderservice-api:
     build:
-      context: ./Services/OrderService
-      dockerfile: OrderService.API/Dockerfile
+      context: .
+      dockerfile: ./Services/OrderService/OrderService.API/Dockerfile
     container_name: orderservice
     ports:
       - "7004:80"
     depends_on:
       - orderdb
+      - rabbitmq
     environment:
       - ConnectionStrings__OrderDb=Host=orderdb;Port=5432;Database=OrderDb;Username=postgresUser;Password=YourPassword12345
       - ASPNETCORE_URLS=http://+:80
@@ -136,8 +138,8 @@ services:
 
   inventoryservice-api:
     build:
-      context: ./Services/InventoryService
-      dockerfile: InventoryService.API/Dockerfile
+      context: .
+      dockerfile: ./Services/InventoryService/InventoryService.API/Dockerfile
     container_name: inventoryservice
     ports:
       - "7010:80"
@@ -148,10 +150,35 @@ services:
       - ConnectionStrings__InventoryDb=Host=inventorydb;Port=5432;Database=InventoryDb;Username=postgresUser;Password=YourPassword12345
       - ASPNETCORE_URLS=http://+:80
 
+  paymentdb:
+    image: postgres:15
+    container_name: paymentdb
+    environment:
+      POSTGRES_USER: postgresUser
+      POSTGRES_PASSWORD: YourPassword12345
+      POSTGRES_DB: PaymentDb
+    ports:
+      - "5436:5432"
+    volumes:
+      - payment_pgdata:/var/lib/postgresql/data
 
+  paymentservice-api:
+    build:
+      context: .
+      dockerfile: ./Services/PaymentService/PaymentService.API/Dockerfile
+    container_name: paymentservice
+    ports:
+      - "7012:80"
+    depends_on:
+      - paymentdb
+      - rabbitmq
+    environment:
+    - ConnectionStrings__PaymentDb=Host=paymentdb;Port=5432;Database=PaymentDb;Username=postgresUser;Password=YourPassword12345
+    - ASPNETCORE_URLS=http://+:80
 
 volumes:
   mssql-auth-data:
   mongo-data:
   order_pgdata:
   inventory_pgdata:
+  payment_pgdata:

@@ -32,3 +32,15 @@
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/OrderService/OrderService.Domain/obj/Debug/net9.0/refint/OrderService.Domain.dll
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/OrderService/OrderService.Domain/obj/Debug/net9.0/OrderService.Domain.pdb
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/OrderService/OrderService.Domain/obj/Debug/net9.0/ref/OrderService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\bin\Debug\net9.0\OrderService.Domain.deps.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\bin\Debug\net9.0\OrderService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\bin\Debug\net9.0\OrderService.Domain.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.AssemblyInfoInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.AssemblyInfo.cs
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.sourcelink.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\refint\OrderService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\ref\OrderService.Domain.dll

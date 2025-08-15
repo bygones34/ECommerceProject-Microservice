@@ -58,3 +58,15 @@ C:/Users/alperyusuf.dursun/OneDrive - Aydinli/Masaüstü/RecentProjects/ECommerc
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Domain/obj/Debug/net9.0/refint/ProductService.Domain.dll
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Domain/obj/Debug/net9.0/ProductService.Domain.pdb
 /Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/ProductService/ProductService.Domain/obj/Debug/net9.0/ref/ProductService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\bin\Debug\net9.0\ProductService.Domain.deps.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\bin\Debug\net9.0\ProductService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\bin\Debug\net9.0\ProductService.Domain.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.AssemblyInfoInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.AssemblyInfo.cs
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.sourcelink.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\obj\Debug\net9.0\refint\ProductService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\ProductService\ProductService.Domain\obj\Debug\net9.0\ref\ProductService.Domain.dll

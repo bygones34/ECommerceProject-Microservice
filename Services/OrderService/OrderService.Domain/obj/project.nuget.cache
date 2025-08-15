@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NUehmtXJ6XU=",
+  "dgSpecHash": "yCzen3OAWp4=",
   "success": true,
-  "projectFilePath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/OrderService/OrderService.Domain/OrderService.Domain.csproj",
+  "projectFilePath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,12 @@
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\bin\Debug\net9.0\PaymentService.Domain.deps.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\bin\Debug\net9.0\PaymentService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\bin\Debug\net9.0\PaymentService.Domain.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\obj\Debug\net9.0\PaymentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\obj\Debug\net9.0\PaymentService.Domain.AssemblyInfoInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\obj\Debug\net9.0\PaymentService.Domain.AssemblyInfo.cs
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\obj\Debug\net9.0\PaymentService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\obj\Debug\net9.0\PaymentService.Domain.sourcelink.json
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\obj\Debug\net9.0\PaymentService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\obj\Debug\net9.0\refint\PaymentService.Domain.dll
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\obj\Debug\net9.0\PaymentService.Domain.pdb
+C:\Users\alperyusuf.dursun\Source\Repos\ECommerceProject-Microservice\Services\PaymentService\PaymentService.Domain\obj\Debug\net9.0\ref\PaymentService.Domain.dll

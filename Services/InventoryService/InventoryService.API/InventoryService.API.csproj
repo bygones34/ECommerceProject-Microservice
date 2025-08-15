@@ -10,6 +10,10 @@
         <PackageReference Include="MassTransit" Version="8.5.2-develop.2349" />
         <PackageReference Include="MassTransit.RabbitMQ" Version="8.5.2-develop.2349" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.7" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.8">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
     </ItemGroup>
 
     <ItemGroup>

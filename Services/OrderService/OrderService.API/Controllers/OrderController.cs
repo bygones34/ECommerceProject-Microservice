@@ -24,6 +24,13 @@ public class OrderController : ControllerBase
         return Ok(orders);
     }
 
+    [HttpGet("by-id/{orderId:guid}")]
+    public async Task<IActionResult> GetOrderByIdAsync(Guid orderId)
+    {
+        var dto = await _mediator.Send(new GetOrderByIdQuery(orderId));
+        return dto is null ? NotFound() : Ok(dto);
+    }
+
     [HttpPost]
     public async Task<IActionResult> CreateOrderAsync(CreateOrderCommand command)
     {

@@ -1,3 +1,5 @@
+using OrderService.Domain.Enums;
+
 namespace OrderService.Domain.Entities;
 
 public class Order
@@ -10,6 +12,8 @@ public class Order
     public string Country { get; set; } = null!;
     public string District { get; set; } = null!;
     public string ZipCode { get; set; } = null!;
+    public OrderStatus Status { get; private set; } = OrderStatus.Pending;
+
     public List<OrderItem> OrderItems { get; set; } = new();
 
     private Order()
@@ -19,12 +23,10 @@ public class Order
     
     public void AddOrderItem(OrderItem item)
     {
-        if (item == null)
-            throw new ArgumentNullException(nameof(item));
+        ArgumentNullException.ThrowIfNull(item);
 
         OrderItems.Add(item);
     }
-
     
     public static Order Create(string userName, string addressLine, string city, string district, string zipCode, string country)
     {
@@ -59,4 +61,15 @@ public class Order
             OrderItems = new List<OrderItem>()
         };
     }
+
+    public void MarkPaid()
+    {
+        Status = OrderStatus.Paid;
+    }
+
+    public void MarkFailed()
+    {
+        Status = OrderStatus.Failed;
+    }
+
 }

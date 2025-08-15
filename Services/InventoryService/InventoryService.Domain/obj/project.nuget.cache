@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RUYnhn0GoQY=",
+  "dgSpecHash": "xG78O2UfZdw=",
   "success": true,
-  "projectFilePath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj",
+  "projectFilePath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\InventoryService\\InventoryService.Domain\\InventoryService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

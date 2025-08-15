@@ -6,11 +6,11 @@ using OrderService.Application.Consumers;
 using OrderService.Application.Features.Orders.Commands.CreateOrder;
 using OrderService.Application.Services;
 using OrderService.Infrastructure;
+using OrderService.Application.Interfaces;
+using OrderService.Infrastructure.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 builder.Services.AddControllers();
 builder.Services.AddDbContext<OrderDbContext>(options =>
@@ -20,6 +20,11 @@ builder.Services.AddMediatR(cfg =>
 builder.Services.AddInfrastructureServices();
 builder.Services.AddApplicationServices();
 builder.Services.AddHttpContextAccessor();
+
+builder.Services.AddScoped<IOutboxRepository, OutboxRepository>();
+
+builder.Services.AddHostedService<OrderService.Infrastructure.Outbox.OutboxDispatcher>();
+
 builder.Services.AddHttpClient<BasketServiceClient>(client =>
 {
     client.BaseAddress = new Uri("http://ecommerce.gateway:7000");
@@ -35,6 +40,8 @@ builder.Services.AddScoped<CreateOrderCommandHandler>();
 builder.Services.AddMassTransit(x =>
 {
     x.AddConsumer<OrderCreatedConsumer>();
+    x.AddConsumer<PaymentSucceededConsumer>();
+    x.AddConsumer<PaymentFailedConsumer>();
 
     x.UsingRabbitMq((context, cfg) =>
     {
@@ -47,15 +54,26 @@ builder.Services.AddMassTransit(x =>
         cfg.ReceiveEndpoint("order-created-queue", e =>
         {
             e.ConfigureConsumer<OrderCreatedConsumer>(context);
+            e.UseMessageRetry(r => r.Interval(3, TimeSpan.FromSeconds(5)));
+        });
+
+        cfg.ReceiveEndpoint("payment-succeeded-to-order", e =>
+        {
+            e.ConfigureConsumer<PaymentSucceededConsumer>(context);
+            e.UseMessageRetry(r => r.Interval(3, TimeSpan.FromSeconds(5)));
+        });
+
+        cfg.ReceiveEndpoint("payment-failed-to-order", e =>
+        {
+            e.ConfigureConsumer<PaymentFailedConsumer>(context);
+            e.UseMessageRetry(r => r.Interval(3, TimeSpan.FromSeconds(5)));
         });
     });
 });
 
 
-
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();

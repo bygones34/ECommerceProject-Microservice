@@ -2,6 +2,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\InventoryService.Domain\InventoryService.Domain.csproj" />
+      <ProjectReference Include="..\..\..\Contracts\ECommerce.Contracts\ECommerce.Contracts.csproj" />
     </ItemGroup>
 
     <ItemGroup>

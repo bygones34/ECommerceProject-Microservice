@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ae+pru+bZUU=",
+  "dgSpecHash": "uk+Rkey4AxI=",
   "success": true,
-  "projectFilePath": "/Users/alperdursun/RiderProjects/MicroService_ECommerce/Services/AuthService/AuthService.Domain/AuthService.Domain.csproj",
+  "projectFilePath": "C:\\Users\\alperyusuf.dursun\\Source\\Repos\\ECommerceProject-Microservice\\Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
